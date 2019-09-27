@@ -7,3 +7,10 @@ Requirments
 
 Download for police!!!
 https://github.com/Ascaped/ar_stationLock
+
+INSTALL
+1. DOWNLOAD THIS GIT
+2. EXTRACT 
+3. DRAG TO RESOURCE FOLDER
+4. START AR-STATIONLOCK-EMS
+5. RESTART SERVER 
